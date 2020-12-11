@@ -7,4 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="skip_color">#B5ADAD</color>
+    <color name="translucent">#0000</color>
+    <color name="calorie_value_color">#EFBB1E</color>
+    <color name="activity_time_color">#EA79FD</color>
 </resources>
